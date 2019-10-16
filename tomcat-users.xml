@@ -43,10 +43,10 @@
   <role rolename="manager-gui"/>  
   <user username="admin" password="password" roles="manager-gui,manager-script" />  
 -->
-<!-- 
  <role rolename="manager-script"/>   
  <user username="deployer" password="deployer" roles="manager-script"/>
--->
+<!--
   <role rolename="manager-gui"/>
   <user username="tomcat" password="s3cret" roles="manager-gui"/>
+-->
 </tomcat-users>
